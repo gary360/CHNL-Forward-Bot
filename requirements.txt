@@ -1,2 +1,2 @@
-https://github.com/pyrogram/pyrogram/archive/masters.zip
+https://github.com/pyrogram/pyrogram/archive/master.zip
 TgCrypto
